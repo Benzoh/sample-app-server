@@ -1,0 +1,3 @@
+[submodule "html/sample-app"]
+	path = html/sample-app
+	url = git@github.com:Benzoh/sample-app.git
